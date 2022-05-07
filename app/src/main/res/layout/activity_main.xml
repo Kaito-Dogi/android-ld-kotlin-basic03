@@ -12,13 +12,13 @@
         android:layout_height="wrap_content"
         android:text="@string/app_name"
         android:textSize="48sp"
-        app:layout_constraintBottom_toTopOf="@id/draw_button"
+        app:layout_constraintBottom_toTopOf="@id/draw_lots_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/draw_button"
+        android:id="@+id/draw_lots_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/draw_button_text"

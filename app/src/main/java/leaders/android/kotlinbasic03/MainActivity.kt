@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // くじを引くボタンを押した時の処理
-        binding.drawButton.setOnClickListener {
+        binding.drawLotsButton.setOnClickListener {
             // ランダムな数値を変数に代入
 
             // ランダムな数値をLogcatに出力
