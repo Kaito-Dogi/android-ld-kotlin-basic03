@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinBasic03</string>
+
+    <string name="draw_button_text">くじを引く</string>
 </resources>
